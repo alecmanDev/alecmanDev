@@ -3,8 +3,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alessandro Alves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alecmanDev&color=blue" alt="Profile views" /> </p>
 
-- 🎓 Estudante de Ciência da Computação (UFPA)
-- 💻 Eu amo Programação Web e AUtomações de Sistemas
+- 🎓 Estudante de Engenharia da Computação (Estácio)
+- 💻 Eu amo Programação Web e Automações de Sistemas
 - 🌐 HTML - CSS - JavaScript - MySQL - Pyhton
 
 <br><br>
