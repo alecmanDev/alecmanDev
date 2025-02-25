@@ -30,7 +30,7 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/AlecSander_07" target="_blank">
+<a href="#" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-AlecSander07-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/alessandro-alves-602a2b186/" target="_blank">
