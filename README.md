@@ -1,5 +1,6 @@
 <img align="right" height="580em"
      src="https://raw.githubusercontent.com/gist/alecmanDev/faacc5e3af51de85aa3ad86666883c2a/raw/6385ca51a5696094646ba231553e973fc372f6c4/githubcard.svg"/>
+     <br><br><br><br>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alessandro Alves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alecmanDev&color=blue" alt="Profile views" /> </p>
 
@@ -17,7 +18,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![SQLite](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
-<br><br>
+<br><br><br>
+<br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
@@ -25,7 +27,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecmandev&layout=compact&theme=vision-friendly-dark" alt="alecmandev's most languages"/>
 </p>
 
-<br><br>
+<br><br><br><br>
 
 ## Contact
 
